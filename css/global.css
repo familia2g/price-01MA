@@ -11,7 +11,7 @@ main {
 
 h1 {
     font-size: 1.25rem;
-    background: var(--Cyan);
+    color: var(--Cyan);
     line-height: 1.5rem;
     margin-bottom: 1.5rem;
 }
